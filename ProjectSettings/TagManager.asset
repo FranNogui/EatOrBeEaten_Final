@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ColliderInterior
+  - Alimento
+  - Camara
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Agentes
+  - Bordes
+  - Camara
+  - Interior
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 4199329091
+    locked: 0
+  - name: Sombra
+    uniqueID: 4195675
+    locked: 0
+  - name: Alimento
+    uniqueID: 373964213
+    locked: 0
+  - name: Agentes0
+    uniqueID: 2645386655
+    locked: 0
+  - name: Agentes1
+    uniqueID: 4153268407
+    locked: 0
+  - name: Agentes2
+    uniqueID: 544365401
+    locked: 0
+  - name: Agentes3
+    uniqueID: 3220956839
+    locked: 0
+  - name: Agentes4
+    uniqueID: 1353334165
+    locked: 0
+  - name: Particulas
+    uniqueID: 3384190277
+    locked: 0
